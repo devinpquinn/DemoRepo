@@ -6,4 +6,5 @@ public class TestScript2 : MonoBehaviour
 {
     //code
     //code
+    //code
 }
